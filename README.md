@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-## Hi there, I am Siddharth👋
+<h3> Hi there, I am Siddharth👋 </h3>
 
 <!-- <br> 
      I am right now trying to learn new things,  -->
