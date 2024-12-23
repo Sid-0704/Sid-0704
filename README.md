@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<h3> Hi there, I am Siddharth👋 </h3>
+<h1> Hi there, I am Siddharth👋 </h1>
 
 <!-- <br> 
      I am right now trying to learn new things,  -->
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bash,blender,github,git,windows,linux,py,vscode &perline=7 &theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,bash,blender,github,git,windows,linux,py,vscode&perline=7&theme=dark" />
   </a>
 </p>
 
