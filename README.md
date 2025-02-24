@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h1> Hi there, I am Siddharth👋 </h1>
 
-<!-- <br> 
-     I am right now trying to learn new things,  -->
+
 
   ## 🌐 My Socials:
 
@@ -43,11 +42,14 @@ Here are some ideas to get you started:
 
 <h3 align="center">Languages & Tools</h3>
 
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,blender,github,git,windows,linux,debian,kali,bash,py,c,vscode&perline=7&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,blender,github,git,windows,linux,debian,kali,bash,py,c,cs,vscode,visualstudio&perline=7&theme=dark" />
   </a>
 </p>
+
+
 # 📈 My GitHub stats📈
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px;">
   
@@ -55,6 +57,7 @@ Here are some ideas to get you started:
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sid-0704&show_icons=true&theme=radical)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-0704&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  
 </div>
 
 
