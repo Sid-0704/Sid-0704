@@ -48,6 +48,14 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=html,css,blender,github,git,windows,linux,debian,kali,bash,py,c,vscode&perline=7&theme=dark" />
   </a>
 </p>
+# 📈 My GitHub stats📈
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px;">
+  
+
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sid-0704&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-0704&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
 
 
