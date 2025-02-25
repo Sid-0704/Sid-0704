@@ -55,11 +55,9 @@ Here are some ideas to get you started:
   
 
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sid-0704&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sid-0704&show_icons=true&theme=radical)  
 
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-0704&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  <br>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-0704&layout=compact&theme=radical) 
 
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sid-0704&theme=radical) 
 
