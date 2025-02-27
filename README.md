@@ -52,12 +52,10 @@ Here are some ideas to get you started:
 
 # 📈 My GitHub stats📈
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10 px;">
-
-[![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sid-0704&theme=tokyonight)](https://github.com/Sid-0704)
-
- [![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sid-0704=tokyonight)](https://github.com/Sid-0704)
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sid-0704&show_icons=true&theme=tokyonight)  
+
+[![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sid-0704&theme=tokyonight)](https://github.com/Sid-0704)
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-0704&layout=compact&theme=tokyonight) 
 
@@ -70,13 +68,13 @@ Here are some ideas to get you started:
 
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sid-0704&theme=tokyonight) 
 
- 
+ </div>
   
 
 
 
   
-</div>
+
 
 
 
