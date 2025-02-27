@@ -55,13 +55,21 @@ Here are some ideas to get you started:
   
 
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sid-0704&show_icons=true&theme=radical)  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sid-0704&show_icons=true&theme=tokyonight)  
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-0704&layout=compact&theme=radical) 
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-0704&layout=compact&theme=tokyonight) 
 
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sid-0704&theme=radical) 
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sid-0704&theme=tokyonight) 
 
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sid-0704&theme=radical)
+  [![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shitcodebykaushik&theme=tokyonight)](https://github.com/shitcodebykaushik)
+  
+[![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sid-0704&theme=tokyonight)](https://github.com/Sid-0704)
+
+[![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sid-0704&theme=tokyonight)](https://github.com/Sid-0704)
+
+[![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sid-0704&theme=tokyonight)](https://github.com/Sid-0704)
+
   
 </div>
 
