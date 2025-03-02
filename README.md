@@ -53,20 +53,20 @@ Here are some ideas to get you started:
 # 📈 My GitHub stats📈
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10 px;">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sid-0704&show_icons=true&theme=tokyonight)  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sid-0704&show_icons=true&theme=radical)  
 
-[![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sid-0704&theme=tokyonight)](https://github.com/Sid-0704)
+[![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sid-0704&theme=radical)](https://github.com/Sid-0704)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-0704&layout=compact&theme=tokyonight) 
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-0704&layout=compact&theme=radical) 
 
-  [![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sid-0704&theme=tokyonight)](https://github.com/Sid-0704)
+  [![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sid-0704&theme=radical)](https://github.com/Sid-0704)
 
-[![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sid-0704&theme=tokyonight)](https://github.com/Sid-0704)
+[![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sid-0704&theme=radical)](https://github.com/Sid-0704)
 
 
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sid-0704&theme=radical)
 
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sid-0704&theme=tokyonight) 
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sid-0704&theme=tokyo-night) 
 
  </div>
   
