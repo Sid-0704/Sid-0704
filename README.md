@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="left">
+  
+ [![Profile Views](https://komarev.com/ghpvc/?username=Sid-0704&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Sid-0704)
+  
+</p>
 <div align="center">
 <h1> Hi there, I am Siddharth👋 </h1>
 
@@ -50,8 +54,12 @@ Here are some ideas to get you started:
 </p>
 
 
+
+
 # 📈 My GitHub stats📈
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10 px;">
+
+
+<div style="display: flex; flex-direction: row; justify-content: center; align-itens: center; gap: 10 px;"> 
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sid-0704&show_icons=true&theme=radical)  
 
@@ -59,25 +67,27 @@ Here are some ideas to get you started:
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-0704&layout=compact&theme=radical) 
 
+  
+
+
+
   [![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sid-0704&theme=radical)](https://github.com/Sid-0704)
 
+
+<!-- <p align="right"> -->
+  
 [![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sid-0704&theme=radical)](https://github.com/Sid-0704)
 
 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sid-0704&theme=radical)](https://github.com/Sid-0704)
+
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sid-0704&theme=radical)
+
 
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sid-0704&theme=tokyo-night) 
 
- </div>
   
-
-
-
   
-
-
-
-
-
-
+</div>
+</div>
  
