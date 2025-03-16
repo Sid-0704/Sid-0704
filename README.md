@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,blender,github,git,windows,linux,debian,kali,bash,py,c,cs,vscode,visualstudio&perline=7&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,blender,github,git,windows,linux,debian,kali,bash,py,c,cs,vscode,visualstudio&perline=10&theme=dark" />
   </a>
 </p>
 
@@ -61,22 +61,34 @@ Here are some ideas to get you started:
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-itens: center; gap: 10 px;"> 
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sid-0704&show_icons=true&theme=radical)  
+  <a href="https://github.com/Sid-0704">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sid-0704&show_icons=true&theme=radical" alt="GitHub Stats">
+</a>  
 
-[![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sid-0704&theme=radical)](https://github.com/Sid-0704)
+<a href="https://github.com/Sid-0704">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sid-0704&theme=radical" alt="Profile Details">
+</a>
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-0704&layout=compact&theme=radical) 
-
-  
+<br>
 
 
+  <a href="https://github.com/Sid-0704">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-0704&layout=compact&theme=radical" alt="Top Languages" align="left" height="175px" width="300px">
+</a>
 
-  [![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sid-0704&theme=radical)](https://github.com/Sid-0704)
+
+  <a href="https://github.com/Sid-0704">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sid-0704&theme=radical" alt="Most Used Languages" align="center" height="175px" width="300px">
+</a>
+
 
 
 <!-- <p align="right"> -->
   
-[![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sid-0704&theme=radical)](https://github.com/Sid-0704)
+<a href="https://github.com/Sid-0704">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sid-0704&theme=radical" alt="Repos per Language" align="right" height="175px" width="300px">
+</a>
+
 
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sid-0704&theme=radical)](https://github.com/Sid-0704)
