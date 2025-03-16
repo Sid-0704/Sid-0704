@@ -73,12 +73,12 @@ Here are some ideas to get you started:
 
 
   <a href="https://github.com/Sid-0704">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-0704&layout=compact&theme=radical" alt="Top Languages" align="left" height="175px" width="300px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid-0704&layout=compact&theme=radical" alt="Top Languages" align="left" height="150px" width="250px">
 </a>
 
 
   <a href="https://github.com/Sid-0704">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sid-0704&theme=radical" alt="Most Used Languages" align="center" height="175px" width="300px">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sid-0704&theme=radical" alt="Most Used Languages" align="center" height="150px" width="250px">
 </a>
 
 
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <!-- <p align="right"> -->
   
 <a href="https://github.com/Sid-0704">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sid-0704&theme=radical" alt="Repos per Language" align="right" height="175px" width="300px">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sid-0704&theme=radical" alt="Repos per Language" align="right" height="150px" width="250px">
 </a>
 
 
