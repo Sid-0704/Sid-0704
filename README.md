@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,blender,github,git,windows,linux,debian,kali,bash,py,c,cs,vscode,visualstudio&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,blender,github,git,windows,linux,kali,bash,py,c,cs,vscode,visualstudio&perline=10&theme=dark" />
   </a>
 </p>
 
